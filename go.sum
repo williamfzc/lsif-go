@@ -260,6 +260,8 @@ github.com/sourcegraph/go-diff v0.6.1/go.mod h1:iBszgVvyxdc8SFZ7gm69go2KDdt3ag07
 github.com/sourcegraph/jsonx v0.0.0-20200629203448-1a936bd500cf/go.mod h1:ppFaPm6kpcHnZGqQTFhUIAQRIEhdQDWP1PCv4/ON354=
 github.com/sourcegraph/lsif-static-doc v0.0.0-20210831232443-e74f711cdf06 h1:MoYw3z6QAnSRFw9IvUylhfHGxxs1V95iZqDhJzIQ2fM=
 github.com/sourcegraph/lsif-static-doc v0.0.0-20210831232443-e74f711cdf06/go.mod h1:8znXDIrOCwaA0q2v7BfPjQ+SD6BtKi6iB3B2I18zu1c=
+github.com/sourcegraph/sourcegraph-public-snapshot/lib v0.0.0-20210914223954-cff3e4aaa732 h1:eTl9m1IObJ1kfQ7RJvBoxsX/VZpIaIq9NQtN0GcZDTY=
+github.com/sourcegraph/sourcegraph-public-snapshot/lib v0.0.0-20210914223954-cff3e4aaa732/go.mod h1:9vLg5fQL9Q3iktfqu96OrswbOq7yqMesMJER9DCy8vk=
 github.com/sourcegraph/sourcegraph/lib v0.0.0-20210831223740-2eb532a72f6c/go.mod h1:aH/URdfJ92i5Ec/5u2GSlliMZtKzsD91oTJNwZpH8Hc=
 github.com/sourcegraph/sourcegraph/lib v0.0.0-20210914223954-cff3e4aaa732 h1:mgoL7S4E44mm8qycqb0/pEKw/y1mi3lptAH01Iyz330=
 github.com/sourcegraph/sourcegraph/lib v0.0.0-20210914223954-cff3e4aaa732/go.mod h1:9vLg5fQL9Q3iktfqu96OrswbOq7yqMesMJER9DCy8vk=

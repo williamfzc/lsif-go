@@ -45,3 +45,5 @@ require (
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	mvdan.cc/gofumpt v0.1.1 // indirect
 )
+
+replace github.com/sourcegraph/sourcegraph/lib v0.0.0-20210914223954-cff3e4aaa732 => github.com/sourcegraph/sourcegraph-public-snapshot/lib v0.0.0-20210914223954-cff3e4aaa732
